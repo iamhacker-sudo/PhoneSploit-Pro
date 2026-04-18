@@ -1,10 +1,8 @@
 sudo apt update
 
-sudo apt install nmap
 sudo apt install adb
 sudo apt install scrcpy
 sudo apt install python3-nmap
 
 # (optional - audio fix)
-sudo apt install pulseaudio
 sudo apt install alsa-utils
